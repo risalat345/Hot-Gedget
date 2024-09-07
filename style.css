@@ -1,0 +1,52 @@
+.asa img{
+    height: 50px;
+    width: 120px;
+}
+.ff{
+    height: 200px;
+}
+.bt{
+    background-color: black;
+    color: azure;
+    padding: 5px;
+    border-radius: 5px;
+}
+.asd{
+    height: 300px;
+}
+.col img{
+    height: 150px;
+    width:150px;
+    margin-left:25%;
+    margin-top: 25%;
+}
+.vc{
+    text-align: center;
+}
+#asd{
+    text-align: right;
+    color: darkorange;
+    font-size: 20px;
+}
+.lap img{
+    height: 170px;
+    width:200px;
+}
+h3{
+    text-align: center;
+    border-bottom: 8px solid darkorange;
+    margin: 0px 40%;
+    border-radius:5px;
+}
+.hghg{
+align-items: center;
+}
+.mm{
+    height: 200px;
+    width: 150px;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 5px;
+}
+h4{
+    text-align: center;
+}
